@@ -1,2 +1,2 @@
 # sdaf-docs
-documentation for SDAF
+sample auto generated documentation for SDAF
